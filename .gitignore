@@ -1,0 +1,4 @@
+venv/
+data/
+gcat.duckdb
+__pycache__/
