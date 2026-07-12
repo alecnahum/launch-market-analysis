@@ -2,3 +2,4 @@ venv/
 data/
 gcat.duckdb
 __pycache__/
+.DS_Store
